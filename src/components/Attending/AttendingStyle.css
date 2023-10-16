@@ -1,0 +1,17 @@
+.attending{
+    width: 100%;
+    height: 100vh;
+    font-weight: bold;
+}
+.attending h2{
+    margin: 100px auto;
+}
+.status{
+    margin-left: 50px;
+}
+.students{
+    margin-left: 50px;
+}
+.btnstatus{
+    display: block;
+}

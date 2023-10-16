@@ -1,0 +1,28 @@
+.registeration{
+    width: 100%;
+    height: 100vh;
+}
+
+  .std{
+    width: 100px;
+  }
+  .row{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+  }
+  .row .students{
+    padding-right: 80px;
+  }
+  .selectedSt .std{
+    padding-left: 15px;
+
+  }
+  .btnR{
+margin-top: 100px;
+width: 180px;
+background-color: aqua;
+  }
